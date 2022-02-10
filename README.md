@@ -7,4 +7,4 @@ Use your mouse and "shoot" the zombie - you have to hit one twice to delete it f
 
  # Live Preview
 
-You can view the game by following this link: https://8bit-peter.github.io/Zombie-Game-JS/
+You can view the game by following this link: https://github.com/echosofrage/Java-Zombie-Game
